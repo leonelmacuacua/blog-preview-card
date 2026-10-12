@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://your-solution-url.com)
+- Live Site URL: [Live site URL](https://blog-preview-card-two-chi.vercel.app/)
 
 ## My process
 
@@ -46,4 +46,4 @@ With this project, I was able to learn new techniques offered by Flexbox to defi
 ## Author
 
 - Github - [@leonelmacuauca](https://github.com/leonelmacuacua)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@leonelmacuacua](https://www.frontendmentor.io/profile/yourusername)
